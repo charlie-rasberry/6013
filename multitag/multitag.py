@@ -1,3 +1,14 @@
+#   TODO:   Refactor,especially change expected names as I jumped the gun when first making this without sampling properly
+#   TODO:   Add button labels and finalise the categories of aspects
+#   TODO:   Ensure there is persistent progress tracking implentation before labelling 
+#   TODO:   Finalise keybinds
+#   TODO:   Display progress    e.g. review 1020 of 5000
+#   TODO:   Validate saving progres
+#   TODO:   Loop instead of pressing enter
+#   TODO:   Autosave ? / confirm quit at least
+#   TODO:   More visual q's
+
+
 import tkinter as tk
 from tkinter import ttk
 import pandas as pd
