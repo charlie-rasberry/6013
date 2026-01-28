@@ -1,4 +1,8 @@
-multitag/data/*.csv
-multitag/raw_data/
-multitag/.ipynb_checkpoints
-multitag/.vscode
+data/*.csv
+raw_data/
+*.ipynb_checkpoints
+*.vscode
+models/
+*.pt
+*.pth
+.ipynb_checkpoints/
